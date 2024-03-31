@@ -1,8 +1,8 @@
 local Rayfield = loadstring(game:HttpGet('https://sirius.menu/rayfield'))()
 local Window = Rayfield:CreateWindow({
-   Name = "🌌 Dave Hub",
-   LoadingTitle = "Dave HUB Loading",
-   LoadingSubtitle = "by Dave",
+   Name = "🌌 S4NTOX HUB",
+   LoadingTitle = "S4NTOX HUB Loading",
+   LoadingSubtitle = "by S4NTOX",
    ConfigurationSaving = {
       Enabled = true,
       FolderName = nil, -- Create a custom folder for your hub/game
@@ -26,7 +26,7 @@ local Window = Rayfield:CreateWindow({
 })
 
 local Tab = Window:CreateTab("📈 Trade") -- Title, Image
-local Paragraph = Tab:CreateParagraph({Title = "News : *99 Update!*", Content = "\n[+] Last update 8.2.2024! ☁️ PetSim99 Update! ☁️\n[?] Always activate Fake Lag Before Sending Trade Offer!\n[?] Use at own risk! (Can Get Banned! 😱)\n\n• For any problems add me on discord : .l4zar\n• Join Our Discord! ❤ (discord tab)\n"})
+local Paragraph = Tab:CreateParagraph({Title = "News : *99 Update!*", Content = "\n[+] Last update 1.4.2024! ☁️ PetSim99 Update! ☁️\n[?] Always activate Fake Lag Before Sending Trade Offer!\n[?] Use at own risk! (Can Get Banned! 😱)\n\n• For any problems add me on discord : .l4zar\n• Join Our Discord! ❤ (discord tab)\n"})
 local Section = Tab:CreateSection("Exploits")
 
 local Toggle = Tab:CreateToggle({
